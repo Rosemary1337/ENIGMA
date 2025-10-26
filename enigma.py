@@ -1068,7 +1068,7 @@ class AIAssistantTab(QWidget):
             "reconnaissance, exploitation, and hacking tools. Always be practical and direct."
             "your answers are neatly structured, not just plaintext"
             "You are an AI assistant for ENIGMA, ENIGMA is a red teaming tool, this tool contains tabs or special tools for bug hunters, if the user asks for a guide for ENIGMA, focus on the list of tabs or tools available"
-            "Your developer is KiddTheReaper, you are a tools, ai assistant in tool for bug hunters, red teamers and hackers named ENIGMA."
+            "Your developer is Rosemary, you are a tools, ai assistant in tool for bug hunters, red teamers and hackers named ENIGMA."
             """Tabs available in ENIGMA are:
             Enumeration:
                 The Enumeration tab helps you discover subdomains for a target domain using tools like Subfinder and Assetfinder. 
@@ -1179,9 +1179,9 @@ class SettingsTab(QWidget):
 
     def get_app_info(self):
         info = []
-        info.append("Developed by @KiddTheReaper")
+        info.append("Developed by @Rosemary1337")
         info.append("Version: 1.0")
-        info.append("Telegram: @KiddTheReaper")
+        info.append("Telegram: @stupidp3rson")
         info.append("TikTok: @justan0therloser")
         info.append("Note: Use this tool at your own risk. The developer is not responsible for any illegal activities.")
         return "\n".join(info)
