@@ -1,4 +1,6 @@
-![ENIGMA Logo](./assets/logo.png)
+<p align="center">
+  <img src="assets/logo.png" width="500">
+</p>
 
 ## Overview
 
